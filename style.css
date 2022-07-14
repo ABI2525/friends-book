@@ -1,0 +1,56 @@
+*{
+    padding:0px;
+    margin: 0px;
+}
+.container{
+    background-color:black;
+    color:black;
+}
+#titleName{
+    text-align: center;
+    color:#abaee0;
+     font-size: 30px;
+    position: absolute;
+   bottom:92%;
+    left:38%;
+   transform: translate(20%,20%);
+   text-shadow: 0 0 10px black;
+
+}
+#backgroundImage{
+    width:100%;
+    height:100%;
+}
+#textBox{
+    background-color: #abaee0;
+    text-align: center;
+    width: 50%;
+    height: 50%;
+}
+.second{
+    text-align: center;
+    color:white;
+    font-size: 20px;
+   position: absolute;
+   top:1%;
+   left:30%;
+  transform: translate(20%,20%);
+  text-shadow: 0 0 10px black;
+}
+#textBox1{
+    background-color:#abaee0;
+    text-align: center;
+    width:50%;
+}
+#textBox2{
+    background-color:#abaee0;
+    text-align: center;
+    height: 50%;
+    width: 50%;
+}
+#textBox3{
+    background-color:#abaee0;
+    color: white;
+    text-align: center;
+
+}
